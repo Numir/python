@@ -25,10 +25,4 @@ List = [['Geeks', 'For'], ['Geeks']]
 print("\nMulti-Dimensional List: ")
 print(List)
 
-say = 3.4
-if say > 0:
-    print("Pozitif")
-elif say == 0:
-    print("Sıfır")
-else:
-    print("Negativ")
+# if say > 0: print("Pozitif")
