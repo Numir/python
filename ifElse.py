@@ -1,4 +1,4 @@
-
+"SüleYMAN".lower()
 "PrOgRaMiZ".upper()
 "PrOgRaMiZ".lower()
 'Happy New Year'.replace('Happy', 'Brilliant')
