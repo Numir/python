@@ -1,6 +1,7 @@
 "SüleYMAN".lower()
 "PrOgRaMiZ".upper()
 "PrOgRaMiZ".lower()
+"sqLiTE".lower()
 'Happy New Year'.replace('Happy', 'Brilliant')
 
 List = []
