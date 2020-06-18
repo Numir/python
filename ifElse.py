@@ -4,6 +4,8 @@
 "sqLiTE".lower()
 'Happy New Year'.replace('Happy', 'Brilliant')
 
+'Happy New Year'.replace('Happy', 'Mutlu')
+
 List = []
 print("Blank List: ")
 print(List)
